@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @snowhofman.
+- 👀 I'm passionate about exploring the intersection of technology and art. I enjoy experimenting with interactive installations, digital media, and immersive experiences.
+- 🌱 Currently, I'm diving deep into creative coding and exploring frameworks like Processing and p5.js. I'm also honing my skills in graphic design and user experience (UX) design.
+- 💞️ I'm eager to collaborate on projects that combine technology, creativity, and human experiences. Whether it's developing interactive installations, designing engaging user interfaces, or exploring new forms of digital art, I'm excited to collaborate with like-minded individuals.
